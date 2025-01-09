@@ -1,1 +1,1 @@
-Python script that demonstrates various basic Python syntax elements, including variables, data types, control structures, functions, and comments.
+Python script that demonstrates various basic Python syntax elements, including variables, data types, if-else statement, functions, and comments.
